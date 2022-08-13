@@ -2,4 +2,4 @@ hello word!
 hiu
 hiuhi
 ijax
-Git tracks changes.
+Git tracks changes of files.
